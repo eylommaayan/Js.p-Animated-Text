@@ -1,10 +1,6 @@
 <img width="625" height="579" alt="image" src="https://github.com/user-attachments/assets/9d9e0924-484d-4852-bf13-c8ad1585ecca" />
 
 
-
-מצוין 👇
-הנה גרסת **README.md** מעוצבת ומוכנה להעתקה ישירות ל־GitHub — כולל כותרות, אמוג׳ים ותצוגת תמונה שתראה טוב בעמוד הפרויקט שלך:
-
 ---
 
 ```markdown
